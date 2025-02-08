@@ -64,5 +64,27 @@
       1,
       1
     ]
+  },
+  {
+    "username": "@disi1",
+    "password": "@disi1",
+    "gender": "disi",
+    "matchUsername": "",
+    "matchDistance": 0,
+    "characterPoints": [
+      2,
+      2,
+      0
+    ],
+    "partnerPoints": [
+      1,
+      1,
+      1
+    ],
+    "answers": [
+      0,
+      1,
+      0
+    ]
   }
 ]

@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "username": "@ahmet123",
+    "password": "1234",
+    "characterPoints": [
+      3,
+      1,
+      0
+    ],
+    "partnerPoints": [
+      0,
+      2,
+      1
+    ],
+    "answers": [
+      0,
+      0,
+      0
+    ]
+  }
+]

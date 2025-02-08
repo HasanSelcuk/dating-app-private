@@ -3,7 +3,7 @@
     "username": "@erkek1",
     "password": "@erkek1",
     "gender": "erkek",
-    "matchUsername": "",
+    "matchUsername": "@disi2",
     "matchDistance": 0,
     "characterPoints": [
       3,
@@ -25,8 +25,8 @@
     "username": "@erkek2",
     "password": "@erkek2",
     "gender": "erkek",
-    "matchUsername": "",
-    "matchDistance": 0,
+    "matchUsername": "senin esin benzerin yokmus abi",
+    "matchDistance": 99999,
     "characterPoints": [
       2,
       0,
@@ -47,7 +47,7 @@
     "username": "@erkek3",
     "password": "@erkek3",
     "gender": "erkek",
-    "matchUsername": "",
+    "matchUsername": "@disi1",
     "matchDistance": 0,
     "characterPoints": [
       1,
@@ -69,7 +69,7 @@
     "username": "@disi1",
     "password": "@disi1",
     "gender": "disi",
-    "matchUsername": "",
+    "matchUsername": "@erkek3",
     "matchDistance": 0,
     "characterPoints": [
       2,
@@ -91,7 +91,7 @@
     "username": "@disi2",
     "password": "@disi2",
     "gender": "disi",
-    "matchUsername": "",
+    "matchUsername": "@erkek1",
     "matchDistance": 0,
     "characterPoints": [
       0,

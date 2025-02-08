@@ -58,5 +58,25 @@
       0,
       0
     ]
+  },
+  {
+    "username": "@erkek2",
+    "password": "@erkek2",
+    "gender": "erkek",
+    "characterPoints": [
+      2,
+      0,
+      1
+    ],
+    "partnerPoints": [
+      1,
+      3,
+      0
+    ],
+    "answers": [
+      0,
+      0,
+      1
+    ]
   }
 ]
